@@ -154,7 +154,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   environmentCam: {fileID: 13789065}
-  characterCam: {fileID: 1587707437}
   CopyMaterial: {fileID: 2100000, guid: 37401c23af9e864409ec258727788655, type: 2}
   EnvironmentCameraRenderTexture: {fileID: 8400000, guid: 38afb2d12db1ce64e83d384b57d2f889,
     type: 2}
